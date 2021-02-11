@@ -1,9 +1,4 @@
-:root{
-    --first-color: #1A73E8;
-    --input-color: #80868B;
-    --border-color: #DADCE0;
 
-}
 
 *,::before,::after{
     box-sizing: border-box;
